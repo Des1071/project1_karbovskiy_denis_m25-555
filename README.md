@@ -27,4 +27,3 @@
 
 ## 🎥 Демонстрация asciinema
 [![asciicast](hhttps://asciinema.org/a/bHRX1f71F1ahNiXfyv5gz7gCc.svg)](https://asciinema.org/a/bHRX1f71F1ahNiXfyv5gz7gCc)
-# project1_karbovskiy_denis_m25-555
