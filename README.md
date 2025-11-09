@@ -26,4 +26,5 @@
 2) С помощью кода (команда solve)
 
 ## 🎥 Демонстрация asciinema
-[![Demo](hhttps://asciinema.org/a/bHRX1f71F1ahNiXfyv5gz7gCc.svg)](https://asciinema.org/a/bHRX1f71F1ahNiXfyv5gz7gCc)# project1_karbovskiy_denis_m25-555
+[![asciicast](hhttps://asciinema.org/a/bHRX1f71F1ahNiXfyv5gz7gCc.svg)](https://asciinema.org/a/bHRX1f71F1ahNiXfyv5gz7gCc)
+# project1_karbovskiy_denis_m25-555
